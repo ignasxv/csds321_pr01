@@ -1,0 +1,8 @@
+.no-horizontal-resize{
+    max-width: 100%;
+    min-width: 100%;
+}
+
+.submitter{
+    float: right;
+}
